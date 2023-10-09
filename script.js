@@ -9,3 +9,8 @@ let MAX_BOUNDS
 let MIN_BOUNDS
 let gamsStatusLoser = "COMPUTER WON!"
 let gameStatusWinner = "PLAYER WON!"
+
+const imageUrls = [
+    "images/babyYes.jpg",
+    "images/no.jpg"
+]
