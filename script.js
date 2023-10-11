@@ -14,3 +14,18 @@ const imageUrls = [
     "images/babyYes.jpg",
     "images/no.jpg"
 ]
+
+const buttons = [
+    "easyBtn",
+    "mediumBtn",
+    "hardBtn",
+    "ultraBtn"
+]
+
+let difficultyLevels = {
+    easy: easyLevelGuesses,
+    medium: mediumLevelGuesses,
+    hard: hardLevelGuesses,
+    ultra: ultraLevelGuesses
+}
+
